@@ -10,8 +10,7 @@ public class Affiche extends JFrame
     Joueur jr2;
     Baolina ball;
 
-    public void setJr1(Joueur k)
-    {
+    public void setJr1(Joueur k){
         this.jr1=k;
     }
     public void setJr2(Joueur k)
